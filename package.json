@@ -1,0 +1,11 @@
+{
+  "name": "staytus-test",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
